@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75199935358",
+    "project_id": "book-an-appointment-9f0b8",
+    "storage_bucket": "book-an-appointment-9f0b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75199935358:android:166f918286626e27ed392f",
+        "android_client_info": {
+          "package_name": "com.yogita.bookanappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75199935358-9skvjeihbno5fu4n2k0vcul8h0qqjh12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3uorIla4-kFXXNnEl7fJn1TuebEjgEt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75199935358-9skvjeihbno5fu4n2k0vcul8h0qqjh12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
